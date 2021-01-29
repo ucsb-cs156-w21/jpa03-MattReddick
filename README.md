@@ -1,7 +1,7 @@
 # jpa03-mattreddick
 
 
-Repo: https://ucsb-cs156-w21/jpa03-mattreddick
+Repo: https://github.com/ucsb-cs156-w21/jpa03-MattReddick
 
 On Heroku: https://jpa03-mattreddick.herokuapp.com
 
